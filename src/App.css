@@ -14,7 +14,7 @@ body{
 
 .app-body{
   /* border:1px solid #fff; */
-  background-image: linear-gradient(to bottom, #000000b4, #000000d8);
+  background-image: linear-gradient(to bottom, #000000b0, #000000d8);
   padding:4rem 2rem;
 }
 
@@ -60,7 +60,11 @@ body{
   padding:1rem;
   border-radius:10px;
   margin-bottom:2rem;
-  min-height:8.3rem;
+  min-height:10rem;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content:center ;
 }
 
 
