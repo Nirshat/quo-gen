@@ -4,9 +4,9 @@ import "../public/buttons.css";
 import { CallApi } from "./services/api-service";
 
 const QouteProps = {
-  content:
-    "Maybe nothing in this world happens by accident. As everything happens for a reason, our destiny slowly takes form.",
-  author: "Silvers Rayleigh",
+  // content: "Maybe nothing in this world happens by accident. As everything happens for a reason, our destiny slowly takes form.",
+  content: "If you don't take the risks, you can't create a future.",
+  author: "Monkey D. Luffy",
 };
 
 const App = () => {

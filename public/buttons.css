@@ -2,8 +2,8 @@
   position: relative;
   display: inline-block;
   background: linear-gradient(to bottom, #1b1c3f, #4a4e91);
-  background: linear-gradient(to bottom, #1b3f24, #4a9182);
-  background: linear-gradient(to bottom, #532658, #a342a3);
+  /* background: linear-gradient(to bottom, #1b3f24, #4a9182);
+  background: linear-gradient(to bottom, #532658, #a342a3); */
 
  /* Gradient background */
   color: white;
@@ -31,8 +31,8 @@
 /* Hover animation */
 .beautiful-button:hover {
   background: linear-gradient(to bottom, #2c2f63, #5b67b7);
-  background: linear-gradient(to bottom, #24532c, #5bb78c);
-  background: linear-gradient(to bottom, #512453, #c240b0);
+  /* background: linear-gradient(to bottom, #24532c, #5bb78c);
+  background: linear-gradient(to bottom, #512453, #c240b0); */
   animation: button-particles 1s ease-in-out infinite;
   transform: translateY(-2px);
 }
